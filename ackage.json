@@ -1,0 +1,11 @@
+{
+  "name": "n8n-simple-bot",
+  "version": "1.0.0",
+  "description": "ربات مدرسه هوشمند با N8N",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "keywords": ["n8n", "bot", "bale", "school"],
+  "author": "You",
+  "license": "MIT"
+}
